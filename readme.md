@@ -16,20 +16,20 @@ Este miniproyectro personal es una aplicación grafica en Python que permite con
 
 ## Instalación
 
-*Clonamos el repositorio*
+- *Clonamos el repositorio*
 git clone https://github.com/AsierBajoJuan/ConvertPDFtoDocx.git
 
-*Accedemos al repositorio*
+- *Accedemos al repositorio*
 cd tu_repositorio
 
-*Instalacion de Dependencias:*
+- *Instalacion de Dependencias:*
 pip install tk pdf2docx PyPDF2
 
 
 ## Ejecutable en Windows
 
-*Accedemos a dist*
+- *Accedemos a dist*
 cd dist
 
-*Doble click*
+- *Doble click*
 ConvertPDFtoDocx.exe
