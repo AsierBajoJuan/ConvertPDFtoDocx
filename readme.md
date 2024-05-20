@@ -28,5 +28,8 @@ pip install tk pdf2docx PyPDF2
 
 ## Ejecutable en Windows
 
+*Accedemos a dist*
+cd dist
+
 *Doble click*
 ConvertPDFtoDocx.exe
