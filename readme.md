@@ -4,8 +4,8 @@ Este miniproyectro personal es una aplicación grafica en Python que permite con
 
 ## Funcionalidades
 
-**Convertir PDF a WORD**: Selecciona un archivo PDF y conviértelo a un documento DOCX
-**Mas funcionalidades proximamente**
+- **Convertir PDF a WORD**: Selecciona un archivo PDF y conviértelo a un documento DOCX
+- **Mas funcionalidades proximamente**
 
 ## Requisitos
 
